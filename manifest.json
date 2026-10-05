@@ -1,0 +1,16 @@
+{
+  "short_name": "DriveVerse",
+  "name": "DriveVerse Vehicle Workspace",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0c1318",
+  "background_color": "#0c1318"
+}

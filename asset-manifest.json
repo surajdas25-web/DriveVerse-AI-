@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DriveVerse-AI-/static/css/main.eccd9234.css",
+    "main.js": "/DriveVerse-AI-/static/js/main.c5f144de.js",
+    "index.html": "/DriveVerse-AI-/index.html",
+    "main.eccd9234.css.map": "/DriveVerse-AI-/static/css/main.eccd9234.css.map",
+    "main.c5f144de.js.map": "/DriveVerse-AI-/static/js/main.c5f144de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eccd9234.css",
+    "static/js/main.c5f144de.js"
+  ]
+}
